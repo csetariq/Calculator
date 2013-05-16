@@ -7,14 +7,19 @@
 .metadata
 bin/
 tmp/
+images/
 *.tmp
 *.bak
 *.swp
 *~.nib
+*.jar
+*.jnlp
+*.xml
 local.properties
 .classpath
 .settings/
 .loadpath
+myKeystore
 
 # External tool builders
 .externalToolBuilders/
